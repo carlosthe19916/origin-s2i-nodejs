@@ -12,7 +12,6 @@ before_install:
   - pushd /tmp
   - git clone https://github.com/openshift/source-to-image source-to-image
   - cd source-to-image  
-  - hack/build.sh
   - sudo mv _output/local/bin/linux/amd64/* /usr/local/bin
   - popd
 
