@@ -19,7 +19,7 @@
               "iconClass": "icon-nodejs",
               "tags": "builder,nodejs,nodejs-0.10.46",
               "supports":"nodejs:0.10,nodejs",
-              "sampleRepo": "https://github.com/ryanj/pillar-base.git"
+              "sampleRepo": "https://github.com/carlosthe19916/pillar-base.git"
             },
             "from": {
               "kind": "ImageStreamTag",
@@ -33,11 +33,11 @@
               "iconClass": "icon-nodejs",
               "tags": "builder,nodejs,nodejs-0.10.46",
               "supports":"nodejs:0.10,nodejs",
-              "sampleRepo": "https://github.com/ryanj/pillar-base.git"
+              "sampleRepo": "https://github.com/carlosthe19916/pillar-base.git"
             },
             "from": {
               "kind": "DockerImage",
-              "name": "ryanj/centos7-s2i-nodejs:0.10.46"
+              "name": "carlosthe19916/centos7-s2i-nodejs:0.10.46"
             }
           },
           {
@@ -47,7 +47,7 @@
               "iconClass": "icon-nodejs",
               "tags": "builder,nodejs,nodejs-0.12.15",
               "supports":"nodejs:0.12,nodejs",
-              "sampleRepo": "https://github.com/ryanj/pillar-base.git"
+              "sampleRepo": "https://github.com/carlosthe19916/pillar-base.git"
             },
             "from": {
               "kind": "ImageStreamTag",
@@ -61,11 +61,11 @@
               "iconClass": "icon-nodejs",
               "tags": "builder,nodejs,nodejs-0.12.15",
               "supports":"nodejs:0.12,nodejs",
-              "sampleRepo": "https://github.com/ryanj/pillar-base.git"
+              "sampleRepo": "https://github.com/carlosthe19916/pillar-base.git"
             },
             "from": {
               "kind": "DockerImage",
-              "name": "ryanj/centos7-s2i-nodejs:0.12.15"
+              "name": "carlosthe19916/centos7-s2i-nodejs:0.12.15"
             }
           },
           {
@@ -75,7 +75,7 @@
               "iconClass": "icon-nodejs",
               "tags": "builder,nodejs,nodejs-4.4.7,nodejs-lts",
               "supports":"nodejs:4,nodejs:4.4,nodejs",
-              "sampleRepo": "https://github.com/ryanj/pillar-base.git"
+              "sampleRepo": "https://github.com/carlosthe19916/pillar-base.git"
             },
             "from": {
               "kind": "ImageStreamTag",
@@ -89,7 +89,7 @@
               "iconClass": "icon-nodejs",
               "tags": "builder,nodejs,nodejs-4.4.7",
               "supports":"nodejs:4,nodejs:4.4,nodejs",
-              "sampleRepo": "https://github.com/ryanj/pillar-base.git"
+              "sampleRepo": "https://github.com/carlosthe19916/pillar-base.git"
             },
             "from": {
               "kind": "ImageStreamTag",
@@ -103,7 +103,7 @@
               "iconClass": "icon-nodejs",
               "tags": "builder,nodejs,nodejs-4.4.7",
               "supports":"nodejs:4,nodejs:4.4,nodejs",
-              "sampleRepo": "https://github.com/ryanj/pillar-base.git"
+              "sampleRepo": "https://github.com/carlosthe19916/pillar-base.git"
             },
             "from": {
               "kind": "ImageStreamTag",
@@ -117,11 +117,11 @@
               "iconClass": "icon-nodejs",
               "tags": "builder,nodejs,nodejs-4.4.7,nodejs-lts",
               "supports":"nodejs:4,nodejs:4.4,nodejs",
-              "sampleRepo": "https://github.com/ryanj/pillar-base.git"
+              "sampleRepo": "https://github.com/carlosthe19916/pillar-base.git"
             },
             "from": {
               "kind": "DockerImage",
-              "name": "ryanj/centos7-s2i-nodejs:4.4.7"
+              "name": "carlosthe19916/centos7-s2i-nodejs:4.4.7"
             }
           },
           {
@@ -131,7 +131,7 @@
               "iconClass": "icon-nodejs",
               "tags": "builder,nodejs,nodejs-5.12.0",
               "supports":"nodejs:5,nodejs:5.11,nodejs",
-              "sampleRepo": "https://github.com/ryanj/pillar-base.git"
+              "sampleRepo": "https://github.com/carlosthe19916/pillar-base.git"
             },
             "from": {
               "kind": "ImageStreamTag",
@@ -145,7 +145,7 @@
               "iconClass": "icon-nodejs",
               "tags": "builder,nodejs,nodejs-5.12.0",
               "supports":"nodejs:5,nodejs:5.11,nodejs",
-              "sampleRepo": "https://github.com/ryanj/pillar-base.git"
+              "sampleRepo": "https://github.com/carlosthe19916/pillar-base.git"
             },
             "from": {
               "kind": "ImageStreamTag",
@@ -160,11 +160,11 @@
               "tags": "builder,nodejs,nodejs-5.12.0,nodejs-latest",
               "supports":"nodejs:5,nodejs:5.11,nodejs",
               "version": "5.12.0",
-              "sampleRepo": "https://github.com/ryanj/pillar-base.git"
+              "sampleRepo": "https://github.com/carlosthe19916/pillar-base.git"
             },
             "from": {
               "kind": "DockerImage",
-              "name": "ryanj/centos7-s2i-nodejs:5.12.0"
+              "name": "carlosthe19916/centos7-s2i-nodejs:5.12.0"
             }
 	  },
           {
@@ -174,7 +174,7 @@
               "iconClass": "icon-nodejs",
               "tags": "builder,nodejs,nodejs-6.3.1",
               "supports":"nodejs:6,nodejs:6.2,nodejs",
-              "sampleRepo": "https://github.com/ryanj/pillar-base.git"
+              "sampleRepo": "https://github.com/carlosthe19916/pillar-base.git"
             },
             "from": {
               "kind": "ImageStreamTag",
@@ -188,7 +188,7 @@
               "iconClass": "icon-nodejs",
               "tags": "builder,nodejs,nodejs-6.3.1",
               "supports":"nodejs:6,nodejs:6.2,nodejs",
-              "sampleRepo": "https://github.com/ryanj/pillar-base.git"
+              "sampleRepo": "https://github.com/carlosthe19916/pillar-base.git"
             },
             "from": {
               "kind": "ImageStreamTag",
@@ -202,7 +202,7 @@
               "iconClass": "icon-nodejs",
               "tags": "builder,nodejs,nodejs-6.3.1",
               "supports":"nodejs:6,nodejs:6.2,nodejs",
-              "sampleRepo": "https://github.com/ryanj/pillar-base.git"
+              "sampleRepo": "https://github.com/carlosthe19916/pillar-base.git"
             },
             "from": {
               "kind": "ImageStreamTag",
@@ -216,7 +216,7 @@
               "iconClass": "icon-nodejs",
               "tags": "builder,nodejs,nodejs-6.3.1,nodejs-current",
               "supports":"nodejs:6,nodejs:6.2,nodejs",
-              "sampleRepo": "https://github.com/ryanj/pillar-base.git"
+              "sampleRepo": "https://github.com/carlosthe19916/pillar-base.git"
             },
             "from": {
               "kind": "ImageStreamTag",
@@ -231,11 +231,11 @@
               "tags": "builder,nodejs,nodejs-6.3.1,nodejs-latest",
               "supports":"nodejs:6,nodejs:6.2,nodejs",
               "version": "6.3.1",
-              "sampleRepo": "https://github.com/ryanj/pillar-base.git"
+              "sampleRepo": "https://github.com/carlosthe19916/pillar-base.git"
             },
             "from": {
               "kind": "DockerImage",
-              "name": "ryanj/centos7-s2i-nodejs:6.3.1"
+              "name": "carlosthe19916/centos7-s2i-nodejs:6.3.1"
             }
           }
         ]

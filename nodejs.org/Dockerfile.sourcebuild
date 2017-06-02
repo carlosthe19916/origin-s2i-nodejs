@@ -3,7 +3,7 @@ FROM openshift/base-centos7
 # This image provides a Node.JS environment you can use to run your Node.JS
 # applications.
 
-MAINTAINER RyanJ <ryanj@redhat.com>
+MAINTAINER carlosthe19916 <carlosthe19916@redhat.com>
 
 EXPOSE 8080
 
